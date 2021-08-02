@@ -1,5 +1,5 @@
 # ABOUT
-Plugin hỗ trợ admin, giáo viên quản lí dữ liệu điểm danh khuôn mặt như xem kết quả điểm danh, thống kê, xuất file..., sinh viên thực hiện điểm danh trực tuyến và xem kết quả điểm danh...
+Plugin hỗ trợ admin thêm plugin attendance (https://github.com/huuduynvc/attendance) cho nhiều khóa học trên moodle
 
 Thực hiện bởi:
 Nguyễn Hữu Duy, KHTN (chuẩn hóa data, thêm attendance cho nhiều lớp)
